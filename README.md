@@ -7,7 +7,9 @@ Create a react application that allows a user to save comments on the video resp
 ## How to Run
 
 >npm install
+
 >npm start
+
 >npm test
 
 ## Technologies Used
