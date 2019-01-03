@@ -1,0 +1,140 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Stan Lee",
+      "comments": [
+        "decent guy",
+        "hard worker"
+      ],
+      "category": null,
+      "video_src": "https://www.youtube.com/embed/HnByuUqMeko",
+      "img_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stan_Lee_by_Gage_Skidmore_3.jpg/220px-Stan_Lee_by_Gage_Skidmore_3.jpg",
+      "video_responses": [
+        {
+          "src": "https://www.youtube.com/embed/AfFmhCfnqqE",
+          "comments": [
+            "great wortk ethic",
+            "decent",
+            "testing!"
+          ],
+          "question": "Where do you see yourself in 5 years?"
+        },
+        {
+          "src": "https://www.youtube.com/embed/HnByuUqMeko",
+          "comments": [
+            "average marks",
+            "good outlook"
+          ],
+          "question": "Challenging problems or easy solutions?"
+        },
+        {
+          "src": "https://www.youtube.com/embed/u_29DHdH_ig",
+          "comments": [
+            "concerning",
+            "excelllent",
+            "interesting"
+          ],
+          "question": "Your biggest professional achievement?"
+        }
+      ],
+      "application_src": "https://cdn.job-applications.com/images/application-gamestop.gif"
+    },
+    {
+        "id": 3,
+        "name": "Naomi Osaka",
+        "comments": [
+          "decent guy",
+          "hard worker"
+        ],
+        "category": null,
+        "video_src": "https://www.youtube.com/embed/HnByuUqMeko",
+        "img_src": "https://timedotcom.files.wordpress.com/2018/09/gettyimages-933727886.jpg",
+        "video_responses": [
+          {
+            "src": "https://www.youtube.com/embed/AfFmhCfnqqE",
+            "comments": [
+              "great wortk ethic",
+              "decent",
+              "testing!"
+            ],
+            "question": "Where do you see yourself in 5 years?"
+          },
+          {
+            "src": "https://www.youtube.com/embed/HnByuUqMeko",
+            "comments": [
+              "average marks",
+              "good outlook"
+            ],
+            "question": "Challenging problems or easy solutions?"
+          },
+          {
+            "src": "https://www.youtube.com/embed/u_29DHdH_ig",
+            "comments": [
+              "concerning",
+              "excelllent",
+              "interesting"
+            ],
+            "question": "Your biggest professional achievement?"
+          }
+        ],
+        "application_src": null
+    },
+    {
+        "id": 2,
+        "name": "Idris Elba",
+        "comments": [
+          "decent guy",
+          "hard worker"
+        ],
+        "category": null,
+        "video_src": "https://www.youtube.com/embed/HnByuUqMeko",
+        "img_src": "https://thebookofman.com/wp-content/uploads/2018/08/IMG_1419.jpg",
+        "video_responses": [
+          {
+            "src": "https://www.youtube.com/embed/AfFmhCfnqqE",
+            "comments": [
+              "great wortk ethic",
+              "decent",
+              "testing!"
+            ],
+            "question": "Where do you see yourself in 5 years?"
+          },
+          {
+            "src": "https://www.youtube.com/embed/HnByuUqMeko",
+            "comments": [
+              "average marks",
+              "good outlook"
+            ],
+            "question": "Challenging problems or easy solutions?"
+          },
+          {
+            "src": "https://www.youtube.com/embed/u_29DHdH_ig",
+            "comments": [
+              "concerning",
+              "excelllent",
+              "interesting"
+            ],
+            "question": "Your biggest professional achievement?"
+          }
+        ],
+        "application_src": "https://cdn.job-applications.com/images/application-gamestop.gif"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "body": "Where do you see yourself in 5 years?"
+    },
+    {
+      "id": 2,
+      "body": "Challenging problems or easy solutions?"
+    },
+    {
+      "id": 3,
+      "body": "Your biggest professional achievement?"
+    }
+    
+  ],
+  "applications": ["https://cdn.job-applications.com/images/application-gamestop.gif"]
+}
